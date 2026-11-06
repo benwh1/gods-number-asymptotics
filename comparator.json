@@ -1,0 +1,12 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "CubeGod.Main",
+  "theorem_names": [
+    "CubeGod.lower_bound",
+    "CubeGod.upper_bound",
+    "CubeGod.godsNumber_asymptotic",
+    "CubeGod.godsNumber_tendsto"
+  ],
+  "definition_names": [],
+  "permitted_axioms": ["propext", "Quot.sound", "Classical.choice"]
+}
